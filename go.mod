@@ -1,4 +1,4 @@
-module github.com/gurufocus/data-package/sdk/go
+module github.com/gurufocus/data-package-go
 
 go 1.18
 
